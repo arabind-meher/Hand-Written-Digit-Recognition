@@ -1,5 +1,5 @@
-# MNIST Dataset
-In this section, we are going to compare three different Machine Learning classifier techniques using MNIST dataset.
+# Hand Written Digit Recognition
+Hand Written Digit Recognition is performed using three different classifier techniques.
 
 ### Decision Tree
 The decision tree classifier creates the classification model by building a decision tree. Each node in the tree specifies a test on an attribute, each branch descending from that node corresponds to one of the possible values for that attribute.
